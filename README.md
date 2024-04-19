@@ -27,9 +27,9 @@ This Java application demonstrates basic CRUD (Create, Read, Update, Delete) ope
 - **View Class**: The View class represents the user interface (UI) of the application. It uses JavaFX for building the UI components. The UI layout is organized using a GridPane, which is suitable for arranging components in rows and columns.
 - **Styling**: Bootstrap classes are applied to the text fields and buttons to improve the UI appearance. This enhances the overall user experience and makes the application visually appealing.
 ## Screenshots
-![Screenshot1](screenshots/screenshot1.png)
-![Screenshot2](screenshots/screenshot2.png)
-![Screenshot3](screenshots/screenshot3.png)
+![Screenshot1](src/main/resources/screenshots/interface.JPG)
+![Screenshot2](src/main/resources/screenshots/message.JPG)
+![Screenshot3](src/main/resources/screenshots/mongo.JPG)
 
 ## Credits
 - This project was created by Anna Linden.
